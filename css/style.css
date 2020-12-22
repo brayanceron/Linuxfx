@@ -31,6 +31,14 @@ p {
   font-size: 0.95em;
 }
 
+.color_comentarios {
+  padding: 0 12px;
+  width: 1400px;
+	color:blue;
+	font-color:blue;
+	background-color: white;
+	margin:0 auto;
+}
 .container {
   padding: 0 12px;
   width: 900px;

@@ -34,8 +34,8 @@ p {
 .color_comentarios {
   width: 1000px;
   background-color: white;
-  margin-left:auto;
-  margin-rigth:auto;
+  margin: 0 auto;
+  
 }
 .container {
   padding: 0 12px;
